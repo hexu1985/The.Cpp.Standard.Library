@@ -11,6 +11,7 @@
 #include <string>
 #include <iostream>
 #include <codecvt>
+#include <locale>
 using namespace std;
 
 int main()

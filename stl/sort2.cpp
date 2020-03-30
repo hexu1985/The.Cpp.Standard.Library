@@ -35,3 +35,14 @@ int main()
          });
     //...
 }
+
+string Person::firstname() const
+{
+    return "";
+}
+
+string Person::lastname() const
+{
+    return "";
+}
+

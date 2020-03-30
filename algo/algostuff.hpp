@@ -26,6 +26,7 @@
 #include <numeric>
 #include <iostream>
 #include <string>
+#include <random>
 
 // INSERT_ELEMENTS (collection, first, last)
 // - fill values from first to last into the collection
